@@ -231,6 +231,7 @@
     <Content Include="Models\HniDiagnostic.edmx.diagram">
       <DependentUpon>HniDiagnostic.edmx</DependentUpon>
     </Content>
+    <None Include="Properties\PublishProfiles\DEV.pubxml" />
     <None Include="Scripts\jquery-2.2.4.intellisense.js" />
     <Content Include="Models\HniDiagnostic.Context.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
